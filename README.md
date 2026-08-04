@@ -95,7 +95,7 @@ I love building modern web applications, scalable backend systems and AI-powered
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
