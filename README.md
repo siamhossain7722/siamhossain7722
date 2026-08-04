@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Siam%20Hossain&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Django%20•%20FastAPI%20•%20Next.js%20•%20AI&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20&text=Siam%20Hossain&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20AI%20Developer&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1200&color=00BFFF&center=true&vCenter=true&width=850&lines=👋+Welcome+to+my+GitHub!;🚀+Full+Stack+Developer;⚡+Django+•+FastAPI+•+Next.js;🤖+AI+Agent+Developer;💡+Building+Scalable+Web+Applications"/>
-
-<!-- <p>
-<img src="https://komarev.com/ghpvc/?username=siay72&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub!;🚀+Full+Stack+Developer;⚡+Django+•+FastAPI+•+Next.js;🤖+AI+Developer;💡+Building+Modern+Scalable+Applications"/>
 
 </div>
 
@@ -14,27 +10,34 @@
 
 # 👨‍💻 About Me
 
-Hi! I'm **Siam Hossain**, a passionate **Full Stack Developer** from Bangladesh.
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NhN2N0dWRvNm9mNGtxdjRydjM5bXBva2g1a3NjcHF0Y2p6M2Q2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378BzHA5FwWFXVSg/giphy.gif"/>
 
-I enjoy building scalable web applications, REST APIs, admin dashboards, AI-powered solutions, and modern user experiences.
+### Hi there 👋
 
-- 🔭 Currently working at **BooleanForce as Full Stack Developer & FlyRank Ai as a Backend Developer**
-- 🌱 Learning **Docker, DevOps & AI Agents**
-- 💻 Backend Specialist with **Python, Django, FastAPI, Express.js**
-- ⚛️ Frontend with **React & Next.js**
-- 🤝 Open to freelance & remote opportunities
-- 📫 Email: **mdsiamh77@gmail.com**
+I'm **Siam Hossain**, a passionate **Full Stack Developer** from Bangladesh.
+
+I love building modern web applications, scalable backend systems and AI-powered solutions.
+
+- 🔭 Full Stack Developer at **BooleanForce**
+- 🤖 Backend Developer at **FlyRank AI**
+- 🌱 Learning **Docker, DevOps & Cloud**
+- ⚡ Backend: **Python, Django, FastAPI, Express**
+- 💻 Frontend: **React, Next.js, TypeScript**
+- 💬 Ask me about **Django, DRF, FastAPI, React & Next.js**
+- 📫 **mdsiamh77@gmail.com**
+
+<br>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
+| 🚀 Project | Description |
+|------------|-------------|
 | 💧 NeoPure | Water Purifier Website & Admin Dashboard |
-| 🤖 AI Customer Support | AI Chat Assistant with Service Booking |
+| 🤖 AI Customer Support | AI Chat Assistant & Booking System |
 | 🛒 E-Commerce API | Django REST Framework Backend |
-| 🌐 Portfolio Website | Personal Portfolio built with Next.js |
+| 🌐 Portfolio | Modern Portfolio built with Next.js |
 
 ---
 
@@ -42,43 +45,43 @@ I enjoy building scalable web applications, REST APIs, admin dashboards, AI-powe
 
 ## 🚀 Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css"/>
 </p>
 
 ## ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express.js"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express"/>
 </p>
 
 ## 🗄 Database
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite"/>
 </p>
 
-## ☁️ Cloud & DevOps
+## ☁️ DevOps & Cloud
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,aws,firebase,git,github,vercel"/>
 </p>
 
 ## 🎨 Design
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=figma,ps"/>
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siay72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siamhossain7722&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siay72&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamhossain7722&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -86,7 +89,7 @@ I enjoy building scalable web applications, REST APIs, admin dashboards, AI-powe
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=siay72&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=siamhossain7722&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -96,15 +99,33 @@ I enjoy building scalable web applications, REST APIs, admin dashboards, AI-powe
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=siay72&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=siamhossain7722&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
-[![Siam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siay72&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Siam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siamhossain7722&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siamhossain7722/siamhossain7722/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siamhossain7722/siamhossain7722/output/github-contribution-grid-snake.svg">
+
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/siamhossain7722/siamhossain7722/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</p>
 
 ---
 
@@ -142,8 +163,8 @@ I enjoy building scalable web applications, REST APIs, admin dashboards, AI-powe
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,11,20"/>
 
 </div>
