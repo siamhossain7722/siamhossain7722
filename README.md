@@ -73,17 +73,19 @@ Modern water purifier website with customer portal, admin dashboard and service 
 **⚙️ Tech Stack**
 
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/TypeScript-009688?style=flat-square&logo=typescript"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss"/>
+
 
 <br><br>
 
-<a href="https://github.com/siamhossain7722/neopure">
+<a href="https://github.com/Booleanforce/NeaPure">
 <img src="https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://neopure.vercel.app">
+<a href="https://nea-pure.vercel.app/">
 <img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge"/>
 </a>
 
@@ -91,26 +93,27 @@ Modern water purifier website with customer portal, admin dashboard and service 
 
 <td width="50%" valign="top">
 
-### 🤖 AI Customer Support
+### 🤖 Construction Solutions Web
 
-> **AI Chat & Service Booking**
+> **Construction Service**
 
-AI-powered assistant for customer support, booking, FAQs and product recommendations.
+Construction Equipment rental service, Civil Construction Service, Maintenance etc.
 
 **⚙️ Tech Stack**
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai"/>
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/TypeScript-009688?style=flat-square&logo=typescript"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai"/>
+<img src="https://img.shields.io/badge/MongoDB-316192?style=flat-square&logo=mongodb"/>
 
 <br><br>
 
-<a href="https://github.com/siamhossain7722/ai-customer-support">
+<a href="https://github.com/Booleanforce/Constructions">
 <img src="https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.constructivepartnerslimited.com/">
 <img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge"/>
 </a>
 
@@ -122,25 +125,26 @@ AI-powered assistant for customer support, booking, FAQs and product recommendat
 
 <td width="50%" valign="top">
 
-### 🌐 Portfolio
+### 🌐 SnapBook
 
-> **Personal Portfolio Website**
+> **Social Media Platform inspired by Facebook**
 
-A modern portfolio showcasing projects, experience and skills.
+A modern social media website where people do as like all activities as they can from Facebook.
 
 **⚙️ Tech Stack**
 
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+<img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql"/>
 
 <br><br>
 
-<a href="https://github.com/siamhossain7722/portfolio">
+<a href="https://github.com/siamhossain7722/SnapBook_Frontend">
 <img src="https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://siam-hossain-portfolio.vercel.app">
+<a href="https://snap-book-frontend.vercel.app/">
 <img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge"/>
 </a>
 
@@ -156,8 +160,9 @@ Review and feedback management system with authentication and dashboard.
 
 **⚙️ Tech Stack**
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-009688?style=flat-square&logo=typescript"/>
+<img src="https://img.shields.io/badge/FastAPI-092E20?style=flat-square&logo=fatapi"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql"/>
 
 <br><br>
@@ -166,7 +171,7 @@ Review and feedback management system with authentication and dashboard.
 <img src="https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://review-client-two.vercel.app/">
 <img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge"/>
 </a>
 
